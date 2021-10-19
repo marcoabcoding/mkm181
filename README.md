@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkm181
+- 👋 Hi, I’m Marco
 - 👀 I’m interested in Data Science Informations 
 - 🌱 I’m currently learning Python, Machine Learning.SQL, R
 - 💞️ I’m looking to collaborate on Data Science Projects
